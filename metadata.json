@@ -1,0 +1,7 @@
+{
+  "name": "16.15 Studios - PO Labs",
+  "description": "A futuristic, immersive web experience for 16.15 Studios and PO Labs, featuring dynamic podcast portfolios, award showcases, and AI-driven content summaries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
